@@ -33,7 +33,7 @@ Key UI Features
 Number input constraints to avoid unrealistic values
 Predict button to prevent auto-prediction
 
-# to run this code us 'python -m streamlit run Medcost.py'
+# to run this code us 'python -m streamlit run filename.py'
 
 🧑‍💻 Author
 Aditya , Machine Learning Enthusiast
